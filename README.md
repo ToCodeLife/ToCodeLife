@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 # Hello there 👋, I'm Jason Lim
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ToCodeLife)](https://git.io/streak-stats)
