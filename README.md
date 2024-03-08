@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jason Lim</h1>
 <h3 align="center">A passionate full stack WEB and Blockchain developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tocodelife&label=Profile%20views&color=0e75b6&style=flat" alt="tocodelife" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tocodelife" alt="tocodelife" /></a> </p>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ToCodeLife)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on: __DevOps & Site Reliability Engineering__ 
 - 🌱 I’m currently learning: __AI and AR/VR__
@@ -23,7 +17,6 @@
 
 <table>
     <tr>
-        <th>My Blog</th>
         <th>My Website</th>
         <th>My CV</th>
     </tr>
@@ -178,5 +171,12 @@
     </tr>
 </table>
 <br/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tocodelife&label=Profile%20views&color=0e75b6&style=flat" alt="tocodelife" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tocodelife" alt="tocodelife" /></a> </p>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ToCodeLife)](https://git.io/streak-stats)
 
 
