@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason Lim</h1>
-<h3 align="center">A passionate full stack WEB and Blockchain developer</h3>
+<h3 align="center">A passionate full stack WEB and Mobile developer</h3>
 
 
 - 🔭 I’m currently working on: __DevOps & Site Reliability Engineering__ 
