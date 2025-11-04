@@ -4,7 +4,7 @@
 
 - 💻 I’m currently working on: **Full-Stack Web & Web3 Projects**
 - 🌱 I’m currently learning: **AI Model and Nostr(decentralized social network)**
-- 💬 Ask me about **React, Next.js, SolidJS, Svelete, TypeScript, Node.js, Smart Contracts, Web3.js, and Cloud DevOps**
+- 💬 Ask me about **React, Next.js, SolidJS, Svelte, Node.js, PHP/openCart, RoR, Smart Contracts, Web3.js, and Cloud DevOps**
 - ⚡ My opinion:
   Coding is the closest thing we have to magic — except one missing bracket can break the spell.  
   Writing code without testing is like skydiving without checking your parachute.  
