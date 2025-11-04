@@ -35,6 +35,7 @@
 ### Contact me:
 <!-- <a href="#"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a> -->
 <a href="https://t.me/monk_4g"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="40" height="40"/></a>
+<a href="mailto:jsonlim67889@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40"/></a>
 
 ### Toolset
 
