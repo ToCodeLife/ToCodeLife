@@ -2,20 +2,20 @@
 <h3 align="center">A passionate full stack WEB and Mobile developer</h3>
 
 
-- 🔭 I’m currently working on: __DevOps & Site Reliability Engineering__ 
-- 🌱 I’m currently learning: __AI and AR/VR__
-- 💬 Ask me about __DevOps, SRE, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, Software Dev...__
+- 💻 I’m currently working on: **Full-Stack Web & Web3 Projects**
+- 🌱 I’m currently learning: **AI Model and Nostr(decentralized social network)**
+- 💬 Ask me about **React, Next.js, SolidJS, Svelete, TypeScript, Node.js, Smart Contracts, Web3.js, and Cloud DevOps**
 - ⚡ My opinion:
-  Programming is like magic, except even the smallest typo can summon a demon.
-  Writing code without testing is like swimming with sharks blindfolded – you might make it, but the odds aren't in your favor.
-  The most valuable tool in a programmer's arsenal is not their IDE or language proficiency, but their ability to think critically and problem-solve.
+  Coding is the closest thing we have to magic — except one missing bracket can break the spell.  
+  Writing code without testing is like skydiving without checking your parachute.  
+  Great developers don’t just write code — they solve problems, build ideas, and never stop learning.
   
   
 
 <br/>
 
 
-<table>
+<!-- <table>
     <tr>
         <th>My Website</th>
         <th>My CV</th>
@@ -28,12 +28,13 @@
             <a href="#">📃</a>
         </td>
     </tr>
-</table>
+</table> -->
 
 
 
 ### Contact me:
-<a href="#"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<!-- <a href="#"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a> -->
+<a href="https://t.me/monk_4g"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="40" height="40"/></a>
 
 ### Toolset
 
@@ -172,9 +173,9 @@
 </table>
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tocodelife&label=Profile%20views&color=0e75b6&style=flat" alt="tocodelife" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tocodelife&label=Profile%20views&color=0e75b6&style=flat" alt="tocodelife" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tocodelife" alt="tocodelife" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tocodelife" alt="tocodelife" /></a> </p> -->
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ToCodeLife)](https://git.io/streak-stats)
